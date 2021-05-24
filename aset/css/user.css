@@ -1,0 +1,15 @@
+h2 {
+	font-family: 'Merriweather', serif;
+}
+
+h3 {
+	font-family: 'Dosis', sans-serif;
+}
+
+
+nav div a.navbar-brand {
+	font-family: 'Cinzel', serif;}
+
+nav div div ul {
+	padding-right: 2%;
+}
